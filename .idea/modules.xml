@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cici.iml" filepath="$PROJECT_DIR$/cici.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ciciModel1/ciciModel1.iml" filepath="$PROJECT_DIR$/ciciModel1/ciciModel1.iml" />
+    </modules>
+  </component>
+</project>
